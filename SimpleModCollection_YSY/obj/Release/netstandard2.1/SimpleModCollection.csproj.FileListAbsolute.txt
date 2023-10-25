@@ -1,0 +1,10 @@
+D:\JetbrainsIdeProjects\RiderProjects\SimpleModCollection\SimpleModCollection\bin\Release\netstandard2.1\SimpleModCollection.deps.json
+D:\JetbrainsIdeProjects\RiderProjects\SimpleModCollection\SimpleModCollection\bin\Release\netstandard2.1\SimpleModCollection.dll
+D:\JetbrainsIdeProjects\RiderProjects\SimpleModCollection\SimpleModCollection\bin\Release\netstandard2.1\SimpleModCollection.pdb
+D:\JetbrainsIdeProjects\RiderProjects\SimpleModCollection\SimpleModCollection\obj\Release\netstandard2.1\SimpleModCollection.csproj.AssemblyReference.cache
+D:\JetbrainsIdeProjects\RiderProjects\SimpleModCollection\SimpleModCollection\obj\Release\netstandard2.1\SimpleModCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\JetbrainsIdeProjects\RiderProjects\SimpleModCollection\SimpleModCollection\obj\Release\netstandard2.1\SimpleModCollection.AssemblyInfoInputs.cache
+D:\JetbrainsIdeProjects\RiderProjects\SimpleModCollection\SimpleModCollection\obj\Release\netstandard2.1\SimpleModCollection.AssemblyInfo.cs
+D:\JetbrainsIdeProjects\RiderProjects\SimpleModCollection\SimpleModCollection\obj\Release\netstandard2.1\SimpleModCollection.csproj.CoreCompileInputs.cache
+D:\JetbrainsIdeProjects\RiderProjects\SimpleModCollection\SimpleModCollection\obj\Release\netstandard2.1\SimpleModCollection.dll
+D:\JetbrainsIdeProjects\RiderProjects\SimpleModCollection\SimpleModCollection\obj\Release\netstandard2.1\SimpleModCollection.pdb

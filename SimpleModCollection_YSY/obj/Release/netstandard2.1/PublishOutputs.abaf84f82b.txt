@@ -1,0 +1,3 @@
+D:\SteamLibrary\steamapps\common\Yog-Sothoth's Yard\BepInEx\plugins\SimpleModCollection.dll
+D:\SteamLibrary\steamapps\common\Yog-Sothoth's Yard\BepInEx\plugins\SimpleModCollection.deps.json
+D:\SteamLibrary\steamapps\common\Yog-Sothoth's Yard\BepInEx\plugins\SimpleModCollection.pdb

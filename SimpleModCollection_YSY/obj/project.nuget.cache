@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "x21eVszHz099oDZLoLMQvvI1GGPprau1c4aD/8PUepAgbalwmG8QRdzrBtEDs30nEe+Vda9Tw5ZscFAfadWezg==",
+  "success": true,
+  "projectFilePath": "D:\\JetbrainsIdeProjects\\RiderProjects\\SimpleModCollection\\SimpleModCollection_YSY\\SimpleModCollection_YSY.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\___zender___\\.nuget\\packages\\universelib.mono\\1.5.1\\universelib.mono.1.5.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'UniverseLib.Mono 1.5.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.1'. This package may not be fully compatible with your project.",
+      "libraryId": "UniverseLib.Mono",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.1"
+      ]
+    }
+  ]
+}

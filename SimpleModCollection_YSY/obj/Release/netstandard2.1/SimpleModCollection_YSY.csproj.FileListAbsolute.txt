@@ -1,0 +1,11 @@
+D:\JetbrainsIdeProjects\RiderProjects\SimpleModCollection\SimpleModCollection_YSY\bin\Release\netstandard2.1\SimpleModCollection_YSY.deps.json
+D:\JetbrainsIdeProjects\RiderProjects\SimpleModCollection\SimpleModCollection_YSY\bin\Release\netstandard2.1\SimpleModCollection_YSY.dll
+D:\JetbrainsIdeProjects\RiderProjects\SimpleModCollection\SimpleModCollection_YSY\bin\Release\netstandard2.1\SimpleModCollection_YSY.pdb
+D:\JetbrainsIdeProjects\RiderProjects\SimpleModCollection\SimpleModCollection_YSY\obj\Release\netstandard2.1\SimpleModCollection_YSY.csproj.AssemblyReference.cache
+D:\JetbrainsIdeProjects\RiderProjects\SimpleModCollection\SimpleModCollection_YSY\obj\Release\netstandard2.1\SimpleModCollection_YSY.GeneratedMSBuildEditorConfig.editorconfig
+D:\JetbrainsIdeProjects\RiderProjects\SimpleModCollection\SimpleModCollection_YSY\obj\Release\netstandard2.1\SimpleModCollection_YSY.AssemblyInfoInputs.cache
+D:\JetbrainsIdeProjects\RiderProjects\SimpleModCollection\SimpleModCollection_YSY\obj\Release\netstandard2.1\SimpleModCollection_YSY.AssemblyInfo.cs
+D:\JetbrainsIdeProjects\RiderProjects\SimpleModCollection\SimpleModCollection_YSY\obj\Release\netstandard2.1\SimpleModCollection_YSY.csproj.CoreCompileInputs.cache
+D:\JetbrainsIdeProjects\RiderProjects\SimpleModCollection\SimpleModCollection_YSY\obj\Release\netstandard2.1\SimpleModCollection_YSY.dll
+D:\SteamLibrary\steamapps\common\Yog-Sothoth's Yard\BepInEx\plugins\netstandard2.1\SimpleModCollection_YSY.deps.json
+D:\SteamLibrary\steamapps\common\Yog-Sothoth's Yard\BepInEx\plugins\netstandard2.1\SimpleModCollection_YSY.dll

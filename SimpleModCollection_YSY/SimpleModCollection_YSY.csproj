@@ -1,0 +1,96 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.1</TargetFramework>
+        <Nullable>enable</Nullable>
+        <LangVersion>10</LangVersion>
+    </PropertyGroup>
+
+    <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+      <OutputPath>D:\SteamLibrary\steamapps\common\Yog-Sothoth's Yard\BepInEx\plugins</OutputPath>
+      <DebugType>none</DebugType>
+      <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    </PropertyGroup>
+
+    <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+      <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Reference Include="0Harmony">
+        <HintPath>..\..\..\..\SteamLibrary\steamapps\common\Yog-Sothoth's Yard\BepInEx\core\0Harmony.dll</HintPath>
+        <Private>False</Private>
+      </Reference>
+      <Reference Include="Assembly-CSharp">
+        <HintPath>..\..\..\..\SteamLibrary\steamapps\common\Yog-Sothoth's Yard\Yog-Sothoth's Yard_Data\Managed\Assembly-CSharp.dll</HintPath>
+        <Private>False</Private>
+      </Reference>
+      <Reference Include="mscorlib">
+        <HintPath>..\..\..\..\SteamLibrary\steamapps\common\Yog-Sothoth's Yard\Yog-Sothoth's Yard_Data\Managed\mscorlib.dll</HintPath>
+        <Private>False</Private>
+      </Reference>
+      <Reference Include="netstandard">
+        <HintPath>..\..\..\..\SteamLibrary\steamapps\common\Yog-Sothoth's Yard\Yog-Sothoth's Yard_Data\Managed\netstandard.dll</HintPath>
+        <Private>False</Private>
+      </Reference>
+      <Reference Include="BepInEx">
+        <HintPath>..\..\..\..\SteamLibrary\steamapps\common\Yog-Sothoth's Yard\BepInEx\core\BepInEx.dll</HintPath>
+        <Private>False</Private>
+      </Reference>
+      <Reference Include="BepInEx.Harmony">
+        <HintPath>..\..\..\..\SteamLibrary\steamapps\common\Yog-Sothoth's Yard\BepInEx\core\BepInEx.Harmony.dll</HintPath>
+        <Private>False</Private>
+      </Reference>
+      <Reference Include="HarmonyXInterop">
+        <HintPath>..\..\..\..\SteamLibrary\steamapps\common\Yog-Sothoth's Yard\BepInEx\core\HarmonyXInterop.dll</HintPath>
+        <Private>False</Private>
+      </Reference>
+      <Reference Include="MonoMod.RuntimeDetour">
+        <HintPath>..\..\..\..\SteamLibrary\steamapps\common\Yog-Sothoth's Yard\BepInEx\core\MonoMod.RuntimeDetour.dll</HintPath>
+        <Private>False</Private>
+      </Reference>
+      <Reference Include="MonoMod.Utils">
+        <HintPath>..\..\..\..\SteamLibrary\steamapps\common\Yog-Sothoth's Yard\BepInEx\core\MonoMod.Utils.dll</HintPath>
+        <Private>False</Private>
+      </Reference>
+      <Reference Include="mscorlib">
+        <HintPath>..\..\..\..\SteamLibrary\steamapps\common\Yog-Sothoth's Yard\Yog-Sothoth's Yard_Data\Managed\mscorlib.dll</HintPath>
+      </Reference>
+      <Reference Include="netstandard">
+        <HintPath>..\..\..\..\SteamLibrary\steamapps\common\Yog-Sothoth's Yard\Yog-Sothoth's Yard_Data\Managed\netstandard.dll</HintPath>
+      </Reference>
+      <Reference Include="UnityEngine">
+        <HintPath>..\..\..\..\SteamLibrary\steamapps\common\Yog-Sothoth's Yard\Yog-Sothoth's Yard_Data\Managed\UnityEngine.dll</HintPath>
+        <Private>False</Private>
+      </Reference>
+      <Reference Include="UnityEngine.CoreModule">
+        <HintPath>..\..\..\..\SteamLibrary\steamapps\common\Yog-Sothoth's Yard\Yog-Sothoth's Yard_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
+        <Private>False</Private>
+      </Reference>
+      <Reference Include="UnityEngine.IMGUIModule">
+        <HintPath>..\..\..\..\SteamLibrary\steamapps\common\Yog-Sothoth's Yard\Yog-Sothoth's Yard_Data\Managed\UnityEngine.IMGUIModule.dll</HintPath>
+        <Private>False</Private>
+      </Reference>
+      <Reference Include="UnityEngine.InputLegacyModule">
+        <HintPath>..\..\..\..\SteamLibrary\steamapps\common\Yog-Sothoth's Yard\Yog-Sothoth's Yard_Data\Managed\UnityEngine.InputLegacyModule.dll</HintPath>
+        <Private>False</Private>
+      </Reference>
+      <Reference Include="UnityEngine.InputModule">
+        <HintPath>..\..\..\..\SteamLibrary\steamapps\common\Yog-Sothoth's Yard\Yog-Sothoth's Yard_Data\Managed\UnityEngine.InputModule.dll</HintPath>
+        <Private>False</Private>
+      </Reference>
+      <Reference Include="UnityEngine.JSONSerializeModule">
+        <HintPath>..\..\..\..\SteamLibrary\steamapps\common\Yog-Sothoth's Yard\Yog-Sothoth's Yard_Data\Managed\UnityEngine.JSONSerializeModule.dll</HintPath>
+        <Private>False</Private>
+      </Reference>
+      <Reference Include="UnityEngine.UI">
+        <HintPath>..\..\..\..\SteamLibrary\steamapps\common\Yog-Sothoth's Yard\Yog-Sothoth's Yard_Data\Managed\UnityEngine.UI.dll</HintPath>
+        <Private>False</Private>
+      </Reference>
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="UniverseLib.Mono" Version="1.5.1" />
+    </ItemGroup>
+
+</Project>
