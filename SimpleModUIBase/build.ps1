@@ -1,0 +1,1 @@
+﻿xcopy D:\JetbrainsIdeProjects\RiderProjects\SimpleModCollection\SimpleModUIBase\bin\Release\netstandard2.1 "D:\JetbrainsIdeProjects\RiderProjects\SimpleModCollection\For2020\Assets\AllDll\UIBase\" /K /Y

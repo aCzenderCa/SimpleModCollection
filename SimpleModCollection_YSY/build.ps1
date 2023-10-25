@@ -1,0 +1,1 @@
+﻿xcopy D:\JetbrainsIdeProjects\RiderProjects\SimpleModCollection\SimpleModCollection_YSY\bin\Release\netstandard2.1 "D:\SteamLibrary\steamapps\common\Yog-Sothoth's Yard\BepInEx\plugins\SimpleModYSY\" /K /Y

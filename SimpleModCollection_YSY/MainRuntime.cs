@@ -31,6 +31,7 @@ public class MainRuntime : BaseUnityPlugin
             "自由炼金时，如果产物品质小于紫则再roll两次，总共三次中取品质最高");
 
         SuperAutoFood = Config.Bind("非作弊功能", "zender.noHack.SuperAutoFood", true, "餐厅补货时自动购买缺少的食材并自动做菜");
-        SuperAutoFoodMakeWindow = Config.Bind("非作弊功能", "zender.noHack.SuperAutoFoodMakeWindow", true,"自动做菜是否弹窗,true则不弹窗");
+        SuperAutoFoodMakeWindow =
+            Config.Bind("非作弊功能", "zender.noHack.SuperAutoFoodMakeWindow", true, "自动做菜是否弹窗,true则不弹窗");
     }
 }
